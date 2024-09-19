@@ -431,3 +431,9 @@ footer .arriba{
     }
 
 }
+
+/*Slider*/
+.bx-wrapper, .bx-viewport{
+    padding-top: 70px;
+    height: 1000px !important;
+}
